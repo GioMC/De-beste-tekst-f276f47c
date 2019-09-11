@@ -1,0 +1,9 @@
+h1 {
+    color: blue;
+}
+/* All <h2> elements. */
+h2 {
+  color: purple;
+}
+li { 
+  font-size: large;
